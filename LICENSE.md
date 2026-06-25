@@ -10,7 +10,7 @@ If you are looking for a reliable, well-structured tool that adapts to modern pl
 
 <div align="center">
 
-[![Download Nebula Assistant](https://img.shields.io/badge/Download%20Nebula%20Assistant-brightgreen?style=for-the-badge&logo=github)](..//releases)
+[![Download Nebula Assistant](https://img.shields.io/badge/Download%20Nebula%20Assistant-brightgreen?style=for-the-badge&logo=github)](../../releases)
 
 </div> 
 
@@ -38,14 +38,14 @@ When choosing a proper automation utility, productivity and safety are paramount
 
 **Optimized Resource Allocation** Say goodbye to high CPU spikes. This project utilizes custom sandboxing logic, ensuring that your background tasks run with the lowest possible hardware footprint.
 
-[Download/Release](..//releases)
+[Download/Release](../../releases)
 
 ---
 
 ## 📦 How to Use
 
 ### For Windows Engine
-1. **Download** the archive from our official [Download/Release](..//releases) dashboard.
+1. **Download** the archive from our official [Download/Release](../../releases) dashboard.
 2. **Extract** files to a designated folder (e.g., `C:\NebulaProject`).
 3. **Launch** the utility file as Administrator to grant system interface access.
 4. **Initialize** the game platform and click the "Connect" button inside the Nebula UI.
@@ -59,7 +59,7 @@ When choosing a proper automation utility, productivity and safety are paramount
 
 <div align="center">
 
-[![Download Nebula Assistant](https://img.shields.io/badge/Download%20Nebula%20Assistant-brightgreen?style=for-the-badge&logo=github)](..//releases)
+[![Download Nebula Assistant](https://img.shields.io/badge/Download%20Nebula%20Assistant-brightgreen?style=for-the-badge&logo=github)](../../releases)
 
 </div>
 
@@ -98,7 +98,7 @@ No, the project is completely open source and community-driven. Avoid third-part
 
 **Nebula Assistant 2.0** represents the peak of custom automation and gaming support utility development in 2026. Download the toolkit today to enjoy seamless optimization, a welcoming community, and high-tier script performance.
 
-[Download/Release](..//releases)
+[Download/Release](../../releases)
 
 ---
 
